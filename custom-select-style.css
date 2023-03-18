@@ -9,7 +9,7 @@ button {
 }
 .custom-select {
   border: 1px solid black;
-  border-radius: 4px;
+  border-radius: 6px;
 }
 
 .custom-select__header {
